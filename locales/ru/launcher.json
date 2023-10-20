@@ -1,0 +1,98 @@
+{		
+	"cheat icon" : {
+		"soon" : "скоро..."
+	},
+	"home" : {
+		"Welcome" : "Добро пожаловать!",
+		"Last updates" : "Последние обновления"
+	},
+	"version" : {
+		"write here": "пишите сюда",
+		"Any problems?": "Какие-то проблемы?"
+	},	
+	"common" : {
+		"Failed": "Ошибка",
+		"Success": "Успех"
+	},	
+	"profile" : {
+		"Failed to connect to the server" : "Не удалось подключиться к серверу",
+		"Sign in" : "Войти",
+		"Sign out" : "Выйти",
+		"You are not logged in" : "Вы не вошли в аккаунт.",
+		"subscriptions" : {
+			"subscriptions" : "подписки",
+			"No subscriptions" : "Подписок нет...",
+			"Activate the key?" : "Актировать ключ?",
+			"until your death" : "до твоей смерти",
+			"until" : "до {{date}}"
+		}
+	},
+	"gta" : {
+		"Wait for the download to finish": "Подождать окончания загрузки.",
+		"Launch the game": "Запустить игру;",
+		"Click the inject button": "Нажать кнопку Inject;",
+		"Launch Instructions": "Инструкция по запуску",
+		"Injector not found, download" : "Инжектор не найден, скачиваем...",
+		"No purchased subscription for GTA 5" : "Нет купленной подписки для GTA 5",
+		"You need to log in to your account to use the cheat" : "Нужно войти в аккаунт, чтобы пользоваться читом.",
+		"The versions on the client and server are not equal" : "Версии на клиенте и сервере не равны"
+	},
+	"settings" : {
+		"Settings of launcher": "Настройки лаунчера",
+		"Auto start": "Автозапуск",
+		"Auto inject": "Автоинжект",
+		"Settings": "Настройки",
+		"The launcher starts with Windows.": "Лаунчер запускается вместе с Windows.",
+		"The launcher detects the running game and injects the cheat.": "Лаунчер обнаруживает запущенную игру и инжектит чит.",
+		"Language": "Язык",
+		"Other": "Прочее",
+		"The path to the cheat files": "Путь к файлам чита",
+		"Open" : "Открыть",
+		"Copied to clipboard": "Скопировано в буфер",
+		"News" : "Новости",
+		"Start page" : "Начальная страница",
+		"Recovery cheat files" : "Восстановить файлы чита",
+		"Recovery" : "Восстановить",
+		"workshop reference" : {
+			"recovery" : "Восстановить файлы чита?",
+			"Recovery" : "Восстановить"
+		},
+
+		"ProgressBar" : "{{progress, number}} MB из {{total, number}} MB",
+		"Unpacking zip archive" : "Распаковка зип архива..."
+	},
+	"workshop" : {
+		"Description" : "Описание",
+		"There is no description for this asset" : "Описания для этого ассета нет.",
+		"Image not found" : "Изображение не найдено",
+		"You must be logged in to create an asset" : "Необходимо войти в аккаунт, чтобы создать ассет.",
+		"You can find anything you want" : "Найдётся всё что угодно... :)",
+
+		"download": {
+			"The save folder does not exist, to fix this, click here" : {
+				"part 1" : "Папка сохранения не существует. Чтобы это исправить, нажмите ",
+				"part 2" : "здесь"
+			},
+			"The asset has been successfully loaded" : "Ассет скачан.",
+			"failed to write file" : "Ошибка при записи файла",
+			"help" : {
+				"step 1" : "Нажмите иконку настроек",
+				"step 2" : "Найдите раздел 'Другое'",
+				"step 3" : "Нажмите кнопку 'Восстановить'"
+			}
+		},
+
+		"editor" : {
+			"Asset name" : "Название ассета:",
+			"Upload images" : "Загрузите изображения:",
+			"Upload content" : "Загрузите контент:",
+			"Description (optional)" : "Описание (опционально)",
+			"Publish" : "Опубликовать",
+			"errors" : {
+				"The asset name must consist only of Latin letters and numbers" : "Имя ассета должно состоять только из латинских букв и цифр",
+				"Name required" : "Имя обязательно",
+				"The asset name must be at least 4 and no more than 30 letters" : "Имя ассета должно быть не меньше 4 и не больше 30 букв"
+			}
+		}
+	}
+}

@@ -1,0 +1,99 @@
+{
+	"cheat icon" : {
+		"soon" : "soon..."
+	},
+	"home" : {
+		"Welcome" : "Welcome!",
+		"Last updates" : "Last updates"
+	},
+	"version" : {
+		"write here": "write here",
+		"Any problems?": "Any problems?"
+	},	
+	"common" : {
+		"Failed": "Failed",
+		"Success": "Success"
+	},	
+	"profile" : {
+		"Failed to connect to the server" : "Failed to connect to the server",
+		"Sign in" : "Sign in",
+		"Sign out" : "Sign out",
+		"You are not logged in" : "You are not logged in.",
+		"subscriptions" : {
+			"subscriptions" : "subscriptions",
+			"No subscriptions" : "No subscriptions...",
+			"Activate the key?" : "Активировать ключ?",
+			"until your death" : "until your death",
+			"until" : "until {{date}}"
+		}
+	},
+	"gta" : {
+		"Wait for the download to finish": "Wait for the download to finish.",
+		"Launch the game": "Launch the game;",
+		"Click the inject button": "Click the inject button;",
+		"Launch Instructions": "Launch Instructions",
+		"Injector not found, download" : "Injector not found, download...",
+		"No purchased subscription for GTA 5" : "No purchased subscription for GTA 5",
+		"You need to log in to your account to use the cheat" : "You need to log in to your account to use the cheat.",
+		"The versions on the client and server are not equal" : "The versions on the client and server are not equal"
+	},
+	"settings" : {
+		"Settings of launcher": "Settings of launcher",
+		"Auto start": "Autostart",
+		"Auto inject": "Autoinject",
+		"Settings": "Settings",
+		"The launcher starts with Windows.": "The launcher starts with Windows.",
+		"The launcher detects the running game and injects the cheat.": "The launcher detects the running game and injects the cheat.",
+		"Language": "Language",
+		"Other": "Other",
+		"The path to the cheat files": "The path to the cheat files",
+		"Open": "Open",
+		"Copied to clipboard": "Copied to clipboard",
+		"News" : "News",
+		"Start page" : "Start page",
+		"Recovery cheat files" : "Recovery cheat files",
+		"Recovery" : "Recovery",
+		"workshop reference" : {
+			"recovery" : "Recover cheat files?",
+			"Recovery" : "Recovery"
+		},
+		
+		"ProgressBar" : "{{progress, number}} MB out of {{total, number}} MB",
+		"Unpacking zip archive" : "Unpacking zip archive..."
+	},
+
+	"workshop" : {
+		"Description" : "Description",
+		"There is no description for this asset" : "There is no description for this asset.",
+		"Image not found" : "Image not found",
+		"You must be logged in to create an asset" : "You must be logged in to create an asset.",
+		"You can find anything you want" : "You can find anything you want... :)",
+
+		"download": {
+			"The save folder does not exist, to fix this, click here" : {
+				"part 1" : "The save folder does not exist, to fix this, click",
+				"part 2" : "here"
+			},
+			"The asset has been successfully loaded" : "The asset has been successfully loaded.",
+			"failed to write file" : "failed to write file",
+			"help" : {
+				"step 1" : "Click the settings icon",
+				"step 2" : "Find the 'Other' section",
+				"step 3" : "Click the 'recovery' button"
+			}
+		},
+
+		"editor" : {
+			"Asset name" : "Asset name:",
+			"Upload images" : "Upload images:",
+			"Upload content" : "Upload content:",
+			"Description (optional)" : "Description (optional)",
+			"Publish" : "Publish",
+			"errors" : {
+				"The asset name must consist only of Latin letters and numbers" : "The asset name must consist only of Latin letters and numbers",
+				"Name required" : "Name required",
+				"The asset name must be at least 4 and no more than 30 letters" : "The asset name must be at least 4 and no more than 30 letters"
+			}
+		}
+	}
+}

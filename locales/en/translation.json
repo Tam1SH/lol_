@@ -1,0 +1,171 @@
+{
+	"login" : {
+		"new in Sasavn?" : "New in Sasavn?",
+		"Registration" : "Registration",
+		"Login may not occur as data may not be up to date" : "Login may not occur as data may not be up to date",
+		"Login or email" : "Login or email",
+		"Password" : "Password",
+		"Forgot password?" : "Forgot password?",
+		"Log in" : "Log in",
+		"This field is required" : "This field is required",
+		"Incorrect login or password" : "Incorrect login or password",
+		"Unknown error" : "Unknown error",
+		"Logout" : "Logout",
+		"Profile" : "Profile",
+		"User with this login already exist" : "User with this login already exist",
+		"Or login via" : "Or login via",
+		"the service is unavailable" : "the service is unavailable",
+		"launcher" : {
+			"Login was successful, you can close the page." : "Login was successful, you can close the page."
+		}
+	},
+	"profile" : {
+		"Profile" : "Profile",
+		"Account managment" : "Account managment",
+		"Main information" : "Main information",
+        "Service already registered" : "Service already registered",
+		"Login" : "Login",
+		"Activation" : "Activation",
+		"Other" : "Other",
+		"Activate" : "Activate",
+		"Download the injector" : "Download the injector",
+		"Download files for the cheat" : "Download files for the cheat",
+		"Download" : "Download",
+		"Key activated successfully" : "Key activated successfully 😀",
+		"An unknown error has occurred" : "An unknown error has occurred 🤬",
+		"Key" : "Key",
+		"Purchased products" : "Purchased products",
+		"Cheat" : "Cheat",
+		"Subscription term" : "Subscription term",
+		"Date of purchase" : "Date of purchase",
+		"Forever" : "Forever",
+		"Password not set" : "Password not set",
+		"Dont show again" : "Dont show again",
+		"Chat" : "Chat",
+		"Account Managment" : {
+			"Information" : "Information",
+			"client-name" : "client",
+			"Last activity" : "Last activity",
+			"Integrations" : "Integrations",
+			"rebind" : "rebind",
+			"delete" : "delete",
+			"Actions" : "Actions",
+			"actions" : "actions",
+			"Close session" : "Close session",
+			"Change your password" : "Change password",
+			"Change" : "Change",
+			"Integrations about" : "Integrations are popular services through which you can quickly log into your account without entering data",
+			"log out of your account" : "Log out of your account",
+			"Or login via" : "Or login via",
+			"Logout" : "Logout",
+			"Current" : "Current",
+			"Account" : "Account",
+			"Sessions" : "Sessions",
+			"Terminate" : "Terminate"
+		}
+	}, 
+	"headerLabels" : {
+		"Main" : "Main",
+		"Begin" : "Begin",
+		"Products" : "Products",
+		"Changelogs" : "Changelogs",
+		"Profile" : "Profile",
+		"Log in" : "Log in"
+	},
+	"changelogs" : {
+		"History" : "History"
+	},
+	"aboutUs" : {
+		"Contacts" : "Contacts",
+		"Language" : "Language",
+		"Privacy Policy" : "Privacy Policy",
+		"Return policy" : "Return policy",
+		"Terms of Use" : "Terms of Use",
+		"Agreement" : "Agreement"
+	},
+	"Registration" : {
+		"Login" : "Login",
+		"Email" : "Email",
+		"Password" : "Password",
+		"Confirm password" : "Confirm password",
+		"Registration" : "Registration",
+		"Already registered?" : "Already registered?",
+		"Log in" : "Log in",
+		"Check your email." : "Check your email.",
+		"Or register via" : "Or register via",
+		"Registration completed successfully." : "Registration completed successfully.",
+		"error" : {
+			"Invalid email" : "Invalid email",
+
+			"User already exist" : "User already exist",
+
+			"This field is required" : "This field is required",
+
+			"This field must match \"Password\"" 
+			: "This field must match \"Password\"",
+
+			"An unknown error has occurred, please try again later." 
+			: "An unknown error has occurred, please try again later.",
+
+			"Login must be more than 4 characters and not exceed 30" 
+			: "Login must be more than 4 characters and not exceed 30",
+
+			"Fill in the captcha" : "Fill in the captcha",
+			"Login regex invalid" : "Login can only consist of Latin letters and numbers."
+		},
+		"footer" : {
+			"section 1" : "By registering on our site, you agree to the",
+			"section 2" : ",as well as the",
+			"section 3" : "and blah blah blah"
+		}
+	},
+	"RecoveryAccount" : {
+		"Recovery" : "Recovery",
+		"Check your email" : "Check your email"
+	},
+	"Products" : {
+		"Price" : "Price",
+		"Price 12$" : "12$",
+		"Back" : "Back",
+		"GTA" : {
+			"Information" : "Information",
+			"Status" : "Status",
+			"Working/Updating" : "Working/Updating",
+			"Last update date" : "Last update date",
+			"Cheat version" : "Cheat version",
+			"Available clients" : "Available clients",
+			"Screenshots" : "Screenshots",
+			"Video" : "Video",
+			"Buy" : "Buy",
+			"Log in" : "Log in"
+		}
+	},
+	"Main" : {
+		"Products" : "Products",
+		"Download" : "Download",
+		"Launcher" : "Launcher",
+		"is a project with the fiercest (coolest) software for GTA 5 (On/off)line." 
+		: "is a project with the fiercest (coolest) software for GTA 5 (On/off)line.",
+		"We also have a cool launcher that you can download! (Wow)" 
+		: "We also have a cool launcher that you can download! (Wow)"
+	},
+	"NewPassword" : {
+		"Password was changed" : "Password was changed",
+		"Password" : "Password",
+		"Confirm password" : "Confirm password",
+		"Confirm" : "Confirm",
+		"error" : {
+			"This field is required" : "This field is required",
+			"This field must match \"Password\"" 
+			: "This field must match \"Password\""
+		}
+	}, 	
+	"NotFound" : {
+		"Part 1" : "At this link we have ",
+		"Part 2" : "☠️NOTHING☠️"
+	},
+	"Chat" : {
+
+	}
+	
+}
